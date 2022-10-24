@@ -1,0 +1,16 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 80.000000 75.000000" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB">
+  <g fill="#fff">
+    <g transform="matrix(1,0,0,1,0,0)" opacity="1">
+      <g>
+        <svg x="0" y="0" width="60" height="74.99437542184336">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.005629400257021189 0 80.00563049316406 100">
+            <g fill-rule="evenodd">
+              <path d="M80 3.77C59.39 19.79 5.22 27 0 46.84v31.38c0 8.5 2.88 15.55 10.74 21.78C.7 68.08 77.26 73.05 80 45.87z" fill="#6043ce"></path>
+              <path d="M51.69 17.48L51.59 0C29.1 15.36 2 18.09 0 46.84v31.38a27 27 0 0 0 2.39 11.67c-.34-34.1 49.56-20.5 49.4-52.8z" fill="#d2bfd3" opacity=".8"></path>
+            </g>
+          </svg>
+        </svg>
+      </g>
+    </g>
+  </g>
+</svg>
